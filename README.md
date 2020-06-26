@@ -1,4 +1,4 @@
-# Google App Script 集
+# Google App Script Repository
 
 ## 環境構築
 
