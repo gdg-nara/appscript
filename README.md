@@ -1,6 +1,6 @@
 # GAS School
 
-教育現場での Google Apps Script(GAS) の活用について学習会を開催するためのレポジトリです。
+教育現場での Google Apps Script(GAS) 活用について考えるためのレポジトリです。
 
 ## 環境構築
 
