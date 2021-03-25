@@ -4,7 +4,7 @@
 
 ## 環境構築
 
-### オンライン。エディタ
+### オンライン・エディタ
 
 [https://script.google.com/home](https://script.google.com/home) で GAS スクリプトを作成、編集、実行できます。
 
