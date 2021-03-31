@@ -1,6 +1,6 @@
-# GAS School
+# GAS for School
 
-教育現場での Google Apps Script(GAS) 活用について考えるためのレポジトリです。
+教育現場で活用できる Google Apps Script(GAS) を共有するためのレポジトリです。
 
 ## 環境構築
 
